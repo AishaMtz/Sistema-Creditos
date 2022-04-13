@@ -1,0 +1,56 @@
+.logosS-img{
+margin-top:-7px;
+left:2%;
+
+}
+
+.logoi-img{
+    margin-top:-90px;
+    right: -40%;  
+ 
+}
+      
+.logot-img{
+        margin-top:-70;
+        right: -80%;
+        
+}
+
+.logoi-img img{
+   width:200px;
+    }
+    
+.logosS-img img{
+    width:200px;
+       
+     }
+
+ .logot-img img{
+ width:175px;
+ }
+
+ .main-selection{
+     margin:0 auto;
+     margin-top: 12%;
+     padding: 0;
+  
+ }
+
+ .user-img{
+     margin-top: -50px;
+     margin-bottom: 35px;
+ }
+
+ .user-img img{
+     width: 110px;
+     height: 110px;
+ }
+
+ .from-group input{
+     height: 42px;
+     font-size: 18px;
+     border: 3;
+     padding-left: 54px;
+     border-radius: 5px;
+ }
+
